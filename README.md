@@ -129,19 +129,19 @@ Contains data validation information. Dictionary of format `dict(sheet_name, dic
 
 ## Methods
 * [`insert()`](#insert)
-* [`insert_range()`](#insert_range())
-*  [`update_prop()`](#`update_prop()`)
-* [`update_specific_prop()`](#`update_specific_prop()`)
-* [`update_specific_format()`](#`update_specific_format()`)
-* [`delete()`](#`delete()`)
-* [`rearrange()`](#`rearrange()`)
-* [`move()`](#`move()`)
-* [`evaluate_formulas()`](#`evaluate_formulas()`)
-* [`add_validation()`](#`add_validation()`)
-* [`add_header()`](#`add_header()`)
-* [`to_excel()`](#`to_excel()`)
-* [`close_workbook()`](#`close_workbook()`)
-* [`change_display_headers()`](#`change_display_headers()`)
+* [`insert_range()`](#insert_range)
+*  [`update_prop()`](#update_prop)
+* [`update_specific_prop()`](#update_specific_prop)
+* [`update_specific_format()`](#update_specific_format)
+* [`delete()`](#delete)
+* [`rearrange()`](#rearrange)
+* [`move()`](#move)
+* [`evaluate_formulas()`](#evaluate_formulas)
+* [`add_validation()`](#add_validation)
+* [`add_header()`](#add_header)
+* [`to_excel()`](#to_excel)
+* [`close_workbook()`](#close_workbook)
+* [`change_display_headers()`](#change_display_headers)
 
 ### `insert()`
 Inserts a list of columns starting at a specified index. Optionally specify column properties for these columns.
