@@ -128,7 +128,7 @@ Contains data validation information. Dictionary of format `dict(sheet_name, dic
 ```
 
 ## Methods
-* [`insert()`](#insert())
+* [`insert()`](#insert)
 * [`insert_range()`](#insert_range())
 *  [`update_prop()`](#`update_prop()`)
 * [`update_specific_prop()`](#`update_specific_prop()`)
